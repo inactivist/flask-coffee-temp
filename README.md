@@ -1,4 +1,4 @@
-This is a temporary clone of the BSD-licensed [Flask-Coffee] flask extension, because for some
+This is a temporary clone of the MIT-licensed [Flask-Coffee] flask extension, because for some
 reason I can't access the [original repo][original] no matter what I've
 tried.
 
